@@ -1,0 +1,5 @@
+*.log
+temp/
+*.class
+node_modules/
+.env
